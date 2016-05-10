@@ -35,7 +35,7 @@ class Pymodoro:
             self.mainframe,
             background='dark green',
             text='Canes Stopwatch',
-            fg='white',
+            fg='DarkOrange1',
             font=('Helvetica', 24)
         )
         banner.grid(
