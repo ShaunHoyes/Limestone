@@ -33,8 +33,8 @@ class Pymodoro:
     def build_banner(self):
         banner = tkinter.Label(
             self.mainframe,
-            background='red',
-            text='Satoshi stopwatch',
+            background='dark green',
+            text='Canes Stopwatch',
             fg='white',
             font=('Helvetica', 24)
         )
