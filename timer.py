@@ -1,7 +1,6 @@
 import tkinter
 from tkinter import messagebox
 
-DEFAULT_GAP = 60 * 25
 DEFAULT_GAP = 60 * 21
 
 class Pymodoro:
